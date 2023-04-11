@@ -1,0 +1,120 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "7.0.1"
+    },
+    "CreationDate": "2023-03-23T04:50:53+01:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "Tiamat_v01_badge",
+      "GUID": "5469616d-6174-45f7-9630-315f62616467",
+      "Revision": "rev?"
+    },
+    "Size": {
+      "X": 178.55,
+      "Y": 140.8366
+    },
+    "LayerNumber": 2,
+    "BoardThickness": 1.6,
+    "Finish": "None"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.127,
+      "PadToTrack": 0.127,
+      "TrackToTrack": 0.127,
+      "MinLineWidth": 0.254
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "Tiamat_v01_badge-F_Cu.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Tiamat_v01_badge-B_Cu.gbr",
+      "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Tiamat_v01_badge-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Tiamat_v01_badge-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Tiamat_v01_badge-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Tiamat_v01_badge-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Tiamat_v01_badge-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "Tiamat_v01_badge-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "Tiamat_v01_badge-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Name": "F.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Material": "FR4",
+      "Name": "F.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Name": "B.Cu"
+    },
+    {
+      "Type": "SolderMask",
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}

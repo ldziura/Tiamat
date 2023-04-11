@@ -1,0 +1,5 @@
+Adafruit CircuitPython 8.0.5 on 2023-03-31; Waveshare RP2040-LCD-1.28 with rp2040
+Board ID:waveshare_rp2040_lcd_1_28
+UID:E6614C309397552C
+boot.py output:
+False
