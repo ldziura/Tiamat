@@ -18,10 +18,10 @@ To spice things up, the Tiamat has an integrated display that doubles as the mic
 
 - Ortholinear layout
 - Anti Ghosting
-- Better placement for the modifiers
+- Collumn stagger of the modifier to accomodate for the pinkie
 - Thumb cluster for the most used keys
 - Smaller spacebar for a better ergonomics
-- stacked numbers and symbols rows for an easier access
+- Stacked numbers and symbols rows for an easier access
 - Hotswap sockets for MX switches
 
 - 240x240 Pin Badge LCD display with backlight that doubles as the microcontroller
