@@ -82,7 +82,6 @@ Gyroscope controlled balls that will are physically simulated and collide with e
 </p>
 
 
-
 ## Hardware
 
 **SOON**
