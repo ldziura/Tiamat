@@ -37,6 +37,8 @@ To spice things up, the Tiamat has an integrated display that doubles as the mic
 
 ## Gallery
 
+( All the keys are not final )
+
 <p align="center" width="100%">
     <img src="05_Assets/img0.png">
 </p>
