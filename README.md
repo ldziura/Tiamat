@@ -7,8 +7,9 @@ For the moment the project is in a very early stage, but it is already possible 
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/warning.svg">
    <img alt="Warning" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg">
 </picture><br>
-This is still a very early prototype, and the files are in constant changes. It is best to use this repository as a reference instead of a ready to use project.
 
+| This is still a very early prototype and the files are in constant changes. It is best to use this repository as a reference instead of a ready to use project. |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Features
 
