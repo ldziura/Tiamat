@@ -34,15 +34,15 @@ For the moment the project is in a very early stage, but it is already possible 
 ## Gallery
 
 <p align="center" width="100%">
-    <img src="05_Assets/photos/img0.jpg">
+    <img src="05_Assets/img0.png">
 </p>
 
 <p align="center" width="100%">
-    <img src="05_Assets/photos/img1.jpg">
+    <img src="05_Assets/img1.png">
 </p>
 
 <p align="center" width="100%">
-    <img src="05_Assets/photos/img2.jpg">
+    <img src="05_Assets/img2.png">
 </p>
 
 
