@@ -45,6 +45,28 @@ For the moment the project is in a very early stage, but it is already possible 
     <img src="05_Assets/img2.png">
 </p>
 
+## Pin Display
+
+### Polar snake Game
+
+<p align="center" width="100%">
+    <a href="https://youtu.be/_snwv8szKXo" target="_blank">
+     <img src="https://img.youtube.com/vi/_snwv8szKXo/maxresdefault.jpg" alt="Mt. Choc Glitch Effect"/>
+    </a>
+</p>
+
+### Animated Wolf
+
+<p align="center" width="100%">
+    <img src="05_Assets/wolf_animated.gif">
+</p>
+
+### Gyroscope controlled balls
+
+<p align="center" width="100%">
+    <img src="05_Assets/gyroscope_balls.gif">
+</p>
+
 
 ## Credits
 
