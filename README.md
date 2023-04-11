@@ -9,7 +9,7 @@ To spice things up, the Tiamat has an integrated display that doubles as the mic
    <img alt="Warning" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg">
 </picture><br>
 
-| This is still a very early prototype and the files are in constant changes. It is best to use this repository as a reference instead of a ready to use project. |
+| This is still a very early prototype and the files are constantly changing. It is best to use this repository as a reference instead of a ready to use project. |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Features
@@ -22,6 +22,7 @@ To spice things up, the Tiamat has an integrated display that doubles as the mic
 - Thumb cluster for the most used keys
 - Smaller spacebar for a better ergonomics
 - Stacked numbers and symbols rows for an easier access
+- Only the most commonly used keys for gaming
 - Hotswap sockets for MX switches
 
 - 240x240 Pin Badge LCD display with backlight that doubles as the microcontroller
