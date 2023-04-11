@@ -47,7 +47,17 @@ For the moment the project is in a very early stage, but it is already possible 
 
 ## Pin Display
 
-### Polar snake Game
+### Polar coordinate snake Game
+
+Complete Snake minigame that uses the polar coordinate system to make the best of the rounded display
+Featuring :
+
+- Completely autonomous game, no need to connect the keyboard to a computer only a power source ( you will still need to connect to the Tiamat or another keyboard to play)
+- Multiple working menus
+- Leaderboard and a highscore system ( stored on the display )
+- Screenshot system ( stored on the display )
+- And much more ! 
+
 
 <p align="center" width="100%">
     <a href="https://youtu.be/_snwv8szKXo" target="_blank">
@@ -57,15 +67,33 @@ For the moment the project is in a very early stage, but it is already possible 
 
 ### Animated Wolf
 
+Logo with toggleable animation 
+
 <p align="center" width="100%">
     <img src="05_Assets/wolf_animated.gif">
 </p>
 
 ### Gyroscope controlled balls
 
+Gyroscope controlled balls that will are physically simulated and collide with each other as well as the display borders
+
 <p align="center" width="100%">
     <img src="05_Assets/gyroscope_balls.gif">
 </p>
+
+
+
+## Hardware
+
+**SOON**
+
+## Build
+
+**SOON**
+
+## Firmware
+
+**SOON**
 
 
 ## Credits
