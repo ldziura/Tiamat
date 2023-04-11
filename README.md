@@ -33,6 +33,18 @@ For the moment the project is in a very early stage, but it is already possible 
 
 ## Gallery
 
+<p align="center" width="100%">
+    <img src="assets/photos/img0.jpg">
+</p>
+
+<p align="center" width="100%">
+    <img src="assets/photos/img1.jpg">
+</p>
+
+<p align="center" width="100%">
+    <img src="assets/photos/img2.jpg">
+</p>
+
 
 ## Credits
 
